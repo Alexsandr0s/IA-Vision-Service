@@ -6,7 +6,8 @@ Projeto de Reconhecimento de Texto e Análise de Imagens: Explorando ferramentas
 
 Este projeto utiliza os serviços do Azure Machine Learning para realizar reconhecimento facial e transformar imagens em dados estruturados. Com base no material de aprendizado fornecido, exploramos como identificar rostos em imagens, obter informações detalhadas sobre as características faciais e preparar dados úteis para análises e aplicações práticas.
 
-##Objetivo
+## TObjetivo
+
 
 Demonstrar a utilização de ferramentas de inteligência artificial e aprendizado de máquina para realizar:
 
@@ -16,7 +17,8 @@ Demonstrar a utilização de ferramentas de inteligência artificial e aprendiza
 
 #Passo a Passo
 
-###1. Configuração do Ambiente
+### 1. Configuração do Ambiente
+
 Acesse o Azure Machine Learning Studio.
 Configure uma conta gratuita do Azure ou use uma já existente.
 Configure os serviços necessários para o reconhecimento facial:
