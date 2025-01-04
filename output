@@ -1,0 +1,16 @@
+resultados do processamento, como arquivos de texto gerados, capturas de tela, ou outras saídas relevantes.
+
+{
+  "apim-request-id": "cf1efe21-592c-486b-a014-1372d29b8c4e",
+  "content-length": "156",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of people on a street",
+    "confidence": 0.7966645359992981
+  },
+  "metadata": {
+    "width": 800,
+    "height": 450
+  }
+}
